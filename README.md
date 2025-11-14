@@ -6,8 +6,6 @@
 
 ---
 
-## 🖼️ **POPKID MD BOT**
-
 ![POPKID-MD Bot Image](https://files.catbox.moe/9tzte1.jpg)
 
 ---
@@ -20,19 +18,19 @@
 
 # 🔧 **Setup & Deployment**
 
-## ⭐ **1. Fork the Project**
+## ⭐ **1. 𝗙𝗢𝗥𝗞 𝗧𝗛𝗘 𝗕𝗢𝗧 𝗣𝗟𝗘𝗔𝗦𝗘💚*
 
 [![Fork the Repository](https://img.shields.io/badge/FORK%20REPOSITORY-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://github.com/popkidmd/POPKID-MD/fork)
 
 ---
 
-## 🔑 **2. Generate Your Session ID**
+## 🔑 **2. 𝗚𝗘𝗧 𝗦𝗘𝗦𝗦𝗜𝗢𝗡 𝗜𝗗**
 
 [![Generate Session](https://img.shields.io/badge/GENERATE%20SESSION-9700FF?style=for-the-badge&logo=link&logoColor=white)](https://shorter-iuab.onrender.com/pair)
 
 ---
 
-## 🚀 **3. Deploy on Your Favorite Hosting**
+## 🚀 **3. 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧✅**
 
 ### **Heroku**
 
